@@ -1,10 +1,7 @@
 ﻿using Newtonsoft.Json;
-using System;
-using System.Diagnostics;
 using System.Text.RegularExpressions;
 using System.Text;
 using System.Windows.Forms;
-using static Decoder;
 
 class Decoder
 {
@@ -102,7 +99,7 @@ class Decoder
 
             while (true)
             {
-                //Converting to UEF8 here makes emojis slightly more understandable in the console
+                //Converting to UTF8 here makes emojis slightly more understandable in the console
                 Console.Clear();
                 Console.WriteLine($"How would you like {UnescapeHex(message.sender_name)} to be shown in the file: ");
 
