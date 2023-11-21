@@ -1,0 +1,17 @@
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\InstgramMessageDecoder.exe
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\InstgramMessageDecoder.deps.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\InstgramMessageDecoder.runtimeconfig.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.csproj.AssemblyReference.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.AssemblyInfoInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.AssemblyInfo.cs
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.csproj.CoreCompileInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\refint\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.genruntimeconfig.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\ref\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Debug\net6.0\InstgramMessageDecoder.csproj.CopyComplete

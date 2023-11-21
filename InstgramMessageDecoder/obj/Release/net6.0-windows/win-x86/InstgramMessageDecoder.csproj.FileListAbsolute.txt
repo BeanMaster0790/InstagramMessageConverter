@@ -1,0 +1,17 @@
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\InstgramMessageDecoder.exe
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\InstgramMessageDecoder.deps.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\InstgramMessageDecoder.runtimeconfig.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\win-x86\Newtonsoft.Json.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.csproj.AssemblyReference.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.AssemblyInfoInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.AssemblyInfo.cs
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.csproj.CoreCompileInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.csproj.CopyComplete
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\refint\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\InstgramMessageDecoder.genruntimeconfig.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\win-x86\ref\InstgramMessageDecoder.dll

@@ -1,0 +1,2 @@
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\publish\win-x86\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\publish\win-x86\InstgramMessageDecoder.exe

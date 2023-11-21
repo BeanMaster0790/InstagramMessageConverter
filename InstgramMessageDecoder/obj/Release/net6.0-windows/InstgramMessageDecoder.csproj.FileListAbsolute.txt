@@ -1,0 +1,17 @@
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\InstgramMessageDecoder.exe
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\InstgramMessageDecoder.deps.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\InstgramMessageDecoder.runtimeconfig.json
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.csproj.AssemblyReference.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.GeneratedMSBuildEditorConfig.editorconfig
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.AssemblyInfoInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.AssemblyInfo.cs
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.csproj.CoreCompileInputs.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.csproj.CopyComplete
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\refint\InstgramMessageDecoder.dll
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.pdb
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\InstgramMessageDecoder.genruntimeconfig.cache
+M:\Projects\Non-Unity\c#\Misc\InstgramMessageDecoder\obj\Release\net6.0-windows\ref\InstgramMessageDecoder.dll
