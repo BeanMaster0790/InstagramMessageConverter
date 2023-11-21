@@ -1,6 +1,8 @@
 # InstagramMessageConverter
 Convert your Instagram message Jsons to a more readable formant.
 
+Donload: https://beanmaster0790.itch.io/instagram-message-converter
+
 Absolutely thrilled about the prospect of reliving those memorable Instagram conversations? Ever found yourself on a nostalgia trip, scrolling tirelessly to the top of your messages, only to be met with frustrating loading times every few scrolls?
 We get it—waiting 5-15 seconds for more messages can be agonizing, especially when you have a treasure trove of memories with that special someone.
 
